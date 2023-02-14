@@ -1,8 +1,6 @@
 import CardItems from "./CardItems";
 
 function Inicio() {
-
-    
     return (
         <div className="container-fluid d-flex flex-column align-items-center">
             <h1 className="text-primary fw-bold mb-5">Menu Principal</h1>
