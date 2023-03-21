@@ -8,7 +8,7 @@ function CardItems(props){
             <div className='col-4'>
                 <i className= {`text-primary ${props.icon}`}></i>
             </div>
-            <div className='col-8'>
+            <div className='col-8 text-decoration-none'>
                 {props.title}
             </div>
         </div>
