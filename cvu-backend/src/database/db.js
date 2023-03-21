@@ -1,5 +1,5 @@
 import { Sequelize } from "sequelize"; 
-const db = new Sequelize('cvu', 'root', '5545im',
+const db = new Sequelize('cvu2', 'root', '5545im',
 {
     host: 'localhost',
     dialect: 'mysql'
